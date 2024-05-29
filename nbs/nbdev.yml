@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "taller_nbdev"
+  site-url: "https://andfonseca.github.io/taller_nbdev"
+  description: "curso python sobre la utilizacion de nbdev y quarto"
+  repo-branch: main
+  repo-url: "https://github.com/andfonseca/taller_nbdev"
