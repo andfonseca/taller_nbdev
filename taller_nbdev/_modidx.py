@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://andfonseca.github.io',
                 'git_url': 'https://github.com/andfonseca/taller_nbdev',
                 'lib_path': 'taller_nbdev'},
-  'syms': {'taller_nbdev.core': {'taller_nbdev.core.foo': ('core.html#foo', 'taller_nbdev/core.py')}}}
+  'syms': { 'taller_nbdev.core': { 'taller_nbdev.core.caracteres_palabra': ('core.html#caracteres_palabra', 'taller_nbdev/core.py'),
+                                   'taller_nbdev.core.split_words': ('core.html#split_words', 'taller_nbdev/core.py')}}}
