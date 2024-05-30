@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "taller_nbdev",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "taller_nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "taller_nbdev",
+    "section": "Install",
+    "text": "Install\npip install taller_nbdev",
+    "crumbs": [
+      "taller_nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#prueba",
+    "href": "index.html#prueba",
+    "title": "taller_nbdev",
+    "section": "Prueba",
+    "text": "Prueba\nejemplo de escritura\n\nTodavía no\nAqui explicamos como se instala una biblioteca",
+    "crumbs": [
+      "taller_nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "taller_nbdev",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "taller_nbdev"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nsplit_words\n\n split_words (string)\n\nUna función que va a dividir todo en sus palabras\n\nsplit_words (\"Si se mantiene en servicio la página es posible ver los cambios que se hacen con ciertos retrasos.\")\n\n['Si',\n 'se',\n 'mantiene',\n 'en',\n 'servicio',\n 'la',\n 'página',\n 'es',\n 'posible',\n 'ver',\n 'los',\n 'cambios',\n 'que',\n 'se',\n 'hacen',\n 'con',\n 'ciertos',\n 'retraso.']\n\n\n\nsource\n\n\ncaracteres_palabra\n\n caracteres_palabra (string)\n\nCaracteres por palabra string: Una cadena de caracteres returns: Una lista con el número de caracteres por palabra\n\ncaracteres_palabra(string_exemplo)\n\n[2, 2, 8, 2, 8, 2, 6, 2, 7, 3, 3, 7, 3, 2, 5, 3, 7, 8]",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
